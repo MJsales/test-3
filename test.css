@@ -28,3 +28,7 @@ h1 {
 p {
   color: rgb(162, 0, 255);
 }
+
+.ttt {
+  text-decoration: line-through;
+}
