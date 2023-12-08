@@ -14,8 +14,8 @@
 
 .center {
   display: circle;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: left;
+  margin-right: left;
   width: 50;
 }
 
