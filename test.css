@@ -1,16 +1,7 @@
 
 
 
-.button {
-  background-color: #000000; /* black */
-  border: none;
-  color: rgb(0, 0, 0);
-  padding: 15 36;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16;
-}
+
 
 .center {
   display: circle;
